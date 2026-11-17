@@ -1,4 +1,17 @@
 
+# AI Assistance Declaration:
+# I used ChatGPT (GPT-6) on November 16, 2026,
+# to help draft and document this R script.
+# Prompts used: R Markdown formatting, code block
+# examples, section organization, and syntax review.
+# I verified outputs by running the R script in
+# Posit Cloud and checking the summary statistics
+# and scatter plot.
+# All final calculations are done by myself.
+# I am responsible for the accuracy and
+# originality of this work.
+
+
 # Student Study Hours Analysis
 # Create a synthetic student dataset
 
