@@ -1,4 +1,8 @@
 
+**AI Assistance Declaration:** I used ChatGPT (GPT-6) on November 16, 2026, to explore README structure, draft and refine Markdown documentation, and review R Markdown formatting. The nine prompts used and summaries of the AI responses are documented below. I verified the documentation by reviewing Markdown syntax, previewing the README on GitHub, and testing the R Markdown document in Posit Cloud. All final calculations are done by myself. I am responsible for the accuracy and originality of this work.
+
+---
+
 Appendix – AI Prompts and Responses
 
 AI Tool: ChatGPT
