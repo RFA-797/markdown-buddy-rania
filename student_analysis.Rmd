@@ -6,6 +6,10 @@ date: "2026-11-16"
 output: html_document
 ---
 
+**AI Assistance Declaration:** I used ChatGPT (GPT-6) on November 16, 2026, to help organize and format this R Markdown document. Prompts used: suggesting Markdown formatting and R code blocks, improving section organization and syntax highlighting, and reviewing R Markdown best practices. I verified outputs by executing the R script and knitting the R Markdown document in Posit Cloud. All final calculations are done by myself. I am responsible for the accuracy and originality of this work.
+
+---
+
 # Purpose
 
 The purpose of this project is to explore the relationship between students' study hours and exam scores using R.
