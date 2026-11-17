@@ -1,4 +1,8 @@
 
+**AI Assistance Declaration:** I used ChatGPT (GPT-6) on November 16, 2026, to help draft and organize my reflection about Markdown documentation. Prompts used: README structure and formatting, R Markdown documentation, and review of AI-assisted writing. I verified the content by reviewing it against my experience using GitHub and Posit Cloud. All final calculations are done by myself. I am responsible for the accuracy and originality of this work.
+
+---
+
 # Reflection – Markdown Buddy Assignment
 
 ## 1. How did ChatGPT help with Markdown documentation?
