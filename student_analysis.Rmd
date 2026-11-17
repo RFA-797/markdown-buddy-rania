@@ -1,0 +1,88 @@
+
+---
+title: "Student Study Hours Analysis"
+author: "Rania Abdelmoaein"
+date: "2026-11-16"
+output: html_document
+---
+
+# Purpose
+
+The purpose of this project is to explore the relationship between students' study hours and exam scores using R.
+
+# Dataset
+
+This project uses a synthetic dataset of 10 students. No real student information is included.
+
+## Inputs
+
+The dataset contains three variables:
+
+- `Student_ID`: A unique number for each student.
+- `Study_Hours`: Number of hours spent studying.
+- `Exam_Score`: Student's exam score.
+
+# Data Analysis
+
+The following R code creates the synthetic dataset.
+
+
+```{r}
+students <- data.frame(
+  Student_ID = 1:10,
+  Study_Hours = c(2, 3, 4, 5, 6, 2, 7, 8, 4, 5),
+  Exam_Score = c(55, 60, 65, 70, 75, 58, 80, 90, 68, 72)
+)
+
+print(students)
+```
+
+
+## Summary Statistics
+
+The following code calculates summary statistics and averages for study hours and exam scores.
+
+
+```{r}
+summary(students$Study_Hours)
+summary(students$Exam_Score)
+
+mean(students$Study_Hours)
+mean(students$Exam_Score)
+```
+
+
+# Data Visualization
+
+The scatter plot shows the relationship between study hours and exam scores.
+
+
+```{r}
+plot(
+  students$Study_Hours,
+  students$Exam_Score,
+  main = "Study Hours vs Exam Scores",
+  xlab = "Study Hours",
+  ylab = "Exam Scores",
+  col = "blue",
+  pch = 19
+)
+```
+
+
+# Outputs
+
+The analysis produces:
+
+- Summary statistics for study hours.
+- Summary statistics for exam scores.
+- Average study hours and exam scores.
+- A scatter plot showing the relationship between the two variables.
+
+# Conclusion
+
+This project demonstrates how R can be used to create synthetic data, calculate descriptive statistics, and visualize the relationship between study hours and exam scores.
+
+# AI Assistance Disclosure
+
+ChatGPT was used to suggest the document structure, improve Markdown formatting, and review R Markdown best practices. The analysis code was executed in RStudio, and the final R Markdown document will be checked using Knit.
