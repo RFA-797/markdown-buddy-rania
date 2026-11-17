@@ -1,4 +1,8 @@
 
+**AI Assistance Declaration:** I used ChatGPT (GPT-6) on November 16, 2026, to help draft and refine Markdown documentation, organize the README, and review formatting. Prompts used: README structure, professional README generation, installation and example code sections, and Markdown syntax review. I verified outputs by reviewing the Markdown, checking GitHub's rendered preview, and testing the R script and R Markdown document in Posit Cloud. All final calculations are done by myself. I am responsible for the accuracy and originality of this work.
+
+---
+
 # Student Study Hours Analysis Using R
 
 ## Overview
